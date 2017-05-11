@@ -1,4 +1,4 @@
-# hackey-test
+# hackey-sample
 
 Sample app to test the [hackey](http://hackey.cerevo.com/)'s api
 
